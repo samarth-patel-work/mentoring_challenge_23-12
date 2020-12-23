@@ -11,7 +11,11 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 ### Examples
 ```
 Input: digits = "23"
-Output: ['ad']
+Output: [
+  'ad', 'ae', 'af',
+  'bd', 'be', 'cd',
+  'ce', 'cf'
+]
 ```
 
 ```
